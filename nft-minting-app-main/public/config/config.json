@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdCdC063C58d1BC45354f86c8E44f7C1B75558102",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xdcdc063c58d1bc45354f86c8e44f7c1b75558102",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Urban Genies",
+  "SYMBOL": "UGNFT",
+  "MAX_SUPPLY": 1005,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/assets/mumbai/0xdcdc063c58d1bc45354f86c8e44f7c1b75558102/5/",
+  "SHOW_BACKGROUND": true
+}
